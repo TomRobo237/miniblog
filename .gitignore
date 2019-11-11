@@ -1,3 +1,6 @@
-# ignore venv files
+# ignore venv files and pycharm config files
 venv/
 .idea/
+
+# ignoring compiled python files.
+*.pyc
