@@ -5,3 +5,4 @@ __pycache__/
 
 # ignoring compiled python files.
 *.pyc
+*.db
