@@ -1,0 +1,1 @@
+ADMINS = ['yourname@example.com']

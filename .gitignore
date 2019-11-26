@@ -2,8 +2,11 @@
 venv/
 .idea/
 __pycache__/
+logs/
 
 # ignoring compiled python files.
 *.pyc
 *.db
 .flaskenv
+admins.py
+.env
